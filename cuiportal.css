@@ -1,0 +1,44 @@
+body{
+    background-color: #1e2b4e;
+    padding:15px 75px;
+}
+.logo{
+    display: inline;
+}
+.console{
+    display: inline;
+    float: right;
+    padding-top: 25px;
+}
+/*.border{
+    border: 1px solid white;
+}*/
+.nbh{
+    text-align: center;
+    text-transform: uppercase;
+    color:#ffffff;
+}
+a:link{
+    color: #f5ee30;
+}
+.nb{
+    display: inline-block;
+    background-color: #3c6d45;
+    width:60%;
+    border-radius: 15px;
+}
+.main{
+    margin-top: 25px;
+}
+ul{
+    list-style-type: none;
+}
+.login{
+    width:35%;
+    height: auto;
+    margin-left: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+}
